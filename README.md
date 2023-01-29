@@ -133,7 +133,7 @@ urlpatterns = [
 
 # OUTPUT:
 
-![img](yamop.jpeg)
+![img](yamop.jpg)
 
 # RESULT:
 
